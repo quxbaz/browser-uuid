@@ -1,7 +1,7 @@
 {
-  "name": "node-uuid",
+  "name": "web-uuid",
   "version": "1.4.7",
-  "homepage": "https://github.com/broofa/node-uuid",
+  "homepage": "https://github.com/quxbaz/web-uuid",
   "authors": [
     "Robert Kieffer <robert@broofa.com>"
   ],
