@@ -41,16 +41,16 @@
       "email": "robert@broofa.com"
     }
   ],
-  "name": "node-uuid",
+  "name": "web-uuid",
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/broofa/node-uuid.git"
+    "url": "https://github.com/quxbaz/web-uuid"
   },
   "scripts": {
     "coverage": "nyc npm test && nyc report",
     "test": "node test/test.js"
   },
-  "url": "http://github.com/broofa/node-uuid",
+  "url": "https://github.com/quxbaz/web-uuid",
   "version": "1.4.7"
 }
